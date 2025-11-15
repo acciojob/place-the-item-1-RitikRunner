@@ -4,7 +4,7 @@ main{
 margin: 0px;
 padding: 0px;
 }
-.mai{
+.holder{
 display: flex;
 align-items: space-between;	
 flex-direction: row;	
