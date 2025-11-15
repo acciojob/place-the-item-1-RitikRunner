@@ -5,11 +5,9 @@ margin: 0px;
 padding: 0px;
 }
 .holder{
-display: flex;
-align-items: space-between;	
-flex-direction: row;	
+display: flex;	
 flex-wrap: wrap;
-gap: 20px;	
+justify-content: space-between;	
 }
 
 #a{
