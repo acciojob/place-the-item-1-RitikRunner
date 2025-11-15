@@ -1,2 +1,40 @@
 
 /* Your CSS Code here. */
+main{
+margin: 0px;
+padding: 0px;
+}
+.mai{
+display: flex;
+align-items: space-between;	
+flex-direction: row;	
+flex-wrap: wrap;
+gap: 20px;	
+}
+
+#a{
+height: 100px;
+width: 100px;
+background-color: green;
+font-size: 40px;	
+}
+#b{
+height: 100px;
+width: 100px;
+background-color: red;
+font-size: 40px;	
+}
+#c{
+height: 100px;
+width: 100px;
+background-color: blue;
+font-size: 40px;	
+}
+
+
+
+
+
+
+
+
